@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠 Skills (from Resume)  
+## 🛠 Skills 
 - **Programming:** Python, Java, C, C++  
 - **AI/ML/DS:** pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, TensorFlow, PyTorch, LangChain  
 - **Web Tools:** Flask, Streamlit, Django, React, HTML, CSS, JavaScript, Node.js, MySQL  

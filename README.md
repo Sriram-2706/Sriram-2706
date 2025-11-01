@@ -39,9 +39,9 @@
 ---
 
 ## 📊 Competitive Programming  
-- 🏅 **CodeChef** – 3★ (Max Rating: 1759, 880+ problems solved)  
+- 🏅 **CodeChef** – 3★ (Max Rating: 1791, 880+ problems solved)  
 - 💡 **LeetCode** – Rating 1992 (900+ problems solved)  
-- 🧩 **Codeforces** – Specialist (Max Rating: 1416)  
+- 🧩 **Codeforces** – Specialist (Max Rating: 1531)  
 
 ---
 
